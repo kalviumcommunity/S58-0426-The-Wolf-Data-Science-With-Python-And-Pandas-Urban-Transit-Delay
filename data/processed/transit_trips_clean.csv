@@ -1,0 +1,16 @@
+trip_id,route_id,day_of_week,hour_of_day,delay_minutes,status,passenger_count
+T001,Route_42,Monday,8.0,14.0,Minor Delay,42.0
+T002,Route_7,Monday,9.0,31.0,Severe Delay,48.0
+T004,Route_23,Tuesday,8.0,0.0,On Time,55.0
+T005,Route_42,Wednesday,17.0,22.0,Major Delay,61.0
+T006,Route_7,Wednesday,18.0,34.0,Severe Delay,48.0
+T008,Route_23,Thursday,7.0,2.0,On Time,44.0
+T009,Route_42,Friday,9.0,18.0,Major Delay,48.0
+T010,Route_7,Friday,17.0,18.0,Major Delay,57.0
+T012,Route_23,Tuesday,18.0,1.0,On Time,48.0
+T013,Route_42,Wednesday,7.0,21.0,Major Delay,48.0
+T016,Route_23,Monday,17.0,3.0,On Time,48.0
+T017,Route_42,Tuesday,9.0,37.0,Severe Delay,39.0
+T018,Route_7,Wednesday,8.0,2.0,On Time,52.0
+T019,Route_15,Thursday,7.0,4.0,On Time,47.0
+T020,Route_23,Friday,9.0,14.0,Minor Delay,48.0
