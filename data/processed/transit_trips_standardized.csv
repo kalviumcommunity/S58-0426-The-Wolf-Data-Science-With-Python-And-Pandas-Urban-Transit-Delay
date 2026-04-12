@@ -1,0 +1,11 @@
+trip_id,route_id,day_of_week,scheduled_time,actual_time,delay_minutes,status,passenger_count,is_peak_hour
+T001,Route_42,Monday,07:00,07:17,17,Minor Delay,42,True
+T002,Route_7,Monday,07:30,08:01,31,Severe Delay,,True
+T003,Route_15,Monday,08:00,08:04,4,On Time,38,True
+T004,Route_23,Tuesday,07:15,07:15,0,On Time,55,False
+T005,Route_42,Tuesday,08:30,08:52,22,Major Delay,61,True
+T006,Route_7,Wednesday,07:00,07:34,34,Severe Delay,,True
+T007,Route_15,Wednesday,09:00,09:03,3,On Time,29,False
+T008,Route_23,Thursday,07:30,07:32,2,On Time,44,False
+T009,Route_42,Friday,08:00,08:18,18,Major Delay,57,True
+T010,Route_7,Friday,07:15,07:19,4,Minor Delay,33,True
